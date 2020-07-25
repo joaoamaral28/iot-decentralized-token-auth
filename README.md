@@ -15,6 +15,37 @@ This repository contains all the code developed to achieve an operational archit
 
 * The master thesis document is publicly available in the University of Aveiro RIA platform. Link: http://hdl.handle.net/10773/28620
 
-# The architecture
+# Architecture
 
-# The protocols
+
+<p align="center">
+<img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/architecture.png" width=500px>
+</p>
+
+# Workflow
+
+## Network bootstrap
+
+<p align="center">
+<img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/workflow_bootstrap.png" width=600px>
+</p>
+
+## Authentication 
+
+<p align="center">
+<img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/workflow_auth.png" width=600px>
+</p>
+
+# Protocols
+
+## Ticket fetching protocol
+
+<p align="center">
+<img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/protocol_ticket_fetch.png" width=400px>
+</p>
+
+## Session setup protocol 
+
+<p align="center">
+<img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/protocol_session_setup.png" width=400px>
+</p>
