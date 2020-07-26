@@ -17,10 +17,16 @@ This repository contains all the code developed to achieve an operational archit
 
 # Architecture
 
+The architecture of the system and its underlying communications can be abstracted with the following image: 
 
 <p align="center">
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/architecture.png" width=500px>
 </p>
+
+In the practical implementation the GW entity was deployed in a RaspberryPi 3 and the DH entity deployed in a 32 bit microcontroller. 
+The GW <-> DH communication was performed via Bluetooth Low Energy (BLE). All the remaining communication is done via IP.
+
+Note that this solution was only considered for Local Area Network scenarios. Optimally, some of the architectural entities would be deployed outside the LAN or even hosted in cloud based services, however, although reasonable, this was not considered for the scope of the project. 
 
 # Workflow
 
