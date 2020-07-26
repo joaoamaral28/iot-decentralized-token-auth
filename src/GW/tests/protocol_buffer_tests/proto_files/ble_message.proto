@@ -1,0 +1,82 @@
+syntax = "proto2";
+/*
+message AuthenticationTicket {
+  message Public{
+    required string target_id = 1;
+    reqired string owner_id = 2;
+    required string access_rights = 3;
+    required string validity = 4;
+    optional string ble_address = 5;
+  }
+  required bytes private;
+  required Public public;
+  required bytes signature;
+}
+message MessageRequest {
+  required string target_uuid = 1;
+  required string action = 2;
+}
+message MessageResponse{
+  required string target_uuid = 1;
+  required string response = 2;
+}
+messsage Payload{
+  oneof payload_oneof {
+    AuthenticationTicket auth_ticket = 1;
+    MessageRequest request_msg = 2;
+    MessageResponse response_msg = 3;
+  } 
+}
+message Header{
+  enum MessageType {
+    AuthenticationTicket = 0;
+    ReadValue = 1;
+    WriteValue = 2;
+  }
+  required MessageType type = 1;
+}
+*/
+
+message BLEmessage{
+  required Header header = 1; // indicator of the message type
+  required Payload payload = 2; // contents of the message
+}
+
+message Header{
+  enum MessageType{
+    AuthTicket = 1;
+    DeviceAccessRequest = 2;
+    DeviceAccessResponse = 3;
+  }
+
+  required MessageType msg_type = 1;
+}
+
+message Payload{
+  required AuthenticationTicket auth_ticket = 1;
+/*
+  oneof payload_type{
+    AuthenticationTicket auth_ticket = 1;
+    MessageRequest msg_req = 2; 
+    MessageResponse msg_res = 3;
+  }
+*/
+}
+
+message MessageRequest{
+  required string target_uuid = 1;
+  required string action = 2;
+}
+
+message MessageResponse{
+  required string target_uuid = 1;
+  required string response = 2; 
+}
+
+message AuthenticationTicket {
+  required bytes private = 1;
+  required bytes public = 2;
+  required bytes signature = 3;
+  optional bytes auth_nonce = 4;
+}
+

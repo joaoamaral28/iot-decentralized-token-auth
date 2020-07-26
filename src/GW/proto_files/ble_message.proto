@@ -1,0 +1,79 @@
+syntax="proto2";
+
+message BLEmessage{
+  required Header header = 1; // indicator of the message type
+  required Payload payload = 2; // contents of the message
+}
+
+message Header{
+  enum MessageType{
+    AuthTicket = 1;
+    NonceExchange = 2;
+    DriversInfo = 3;
+    DeviceAccessRequest = 4;
+    DeviceAccessResponse = 5;
+    ErrorMsg = 6;
+    DriverAuthTicket=7;
+  }
+
+  required MessageType msg_type = 1;
+}
+
+/* The correct structure of this message was meant to 
+make use of the oneof specification, however such is not
+considered since nanopb has no support for callbacks of messages
+within the oneof statement */ 
+message Payload{
+    optional AuthenticationTicket auth_ticket = 1;
+    optional NonceExchangeMessage nonce_exc_msg = 2;
+    optional DriversInfoMessage drivers_info_msg = 3;
+    optional MessageResponse response = 4;
+    optional MessageRequest request = 5;
+    optional ErrorMessage error_msg = 6;
+/*
+  oneof payload_type{
+    AuthenticationTicket auth_ticket = 1;
+    MessageRequest msg_req = 2; 
+    MessageResponse msg_res = 3;
+  }
+*/
+}
+
+message MessageRequest{
+  required string target_uuid = 1;
+  required string action = 2; 
+  optional int32 delta = 3;
+}
+
+message MessageResponse{
+  required string target_uuid = 1;
+  required string response = 2; 
+}
+
+message AuthenticationTicket {
+  required bytes secret = 1;
+  required bytes pub = 2;
+  required bytes signature = 3;
+  optional bytes auth_nonce = 4;
+}
+
+message NonceExchangeMessage{
+   required bytes enc_nonce = 1;
+   optional bytes clear_nonce = 2;
+}
+
+message ErrorMessage{
+   required bytes error_code = 1;
+   optional string error_description = 2;
+}
+
+message DriversInfoMessage{
+   repeated DriverInfo driver_info = 1;
+}
+
+message DriverInfo{
+   required string api_description = 1;
+   required bytes public_key = 2;
+   required bytes a3c_dd_uuid = 3;
+}
+

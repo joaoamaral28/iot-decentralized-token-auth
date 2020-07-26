@@ -1,0 +1,619 @@
+2019-10-26 23:08:59,118 [MainThread  ] [INFO ]  DHM server starting
+2019-10-26 23:08:59,118 [MainThread  ] [INFO ]  Loading database
+2019-10-26 23:08:59,119 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-10-26 23:08:59,333 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-10-26 23:08:59,333 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-10-26 23:08:59,334 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-10-26 23:08:59,335 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-10-26 23:08:59,335 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-10-26 23:08:59,336 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-10-26 23:08:59,336 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-10-26 23:08:59,341 [MainThread  ] [INFO ]  Starting web server
+2019-10-31 15:42:10,419 [MainThread  ] [INFO ]  DHM server starting
+2019-10-31 15:42:10,419 [MainThread  ] [INFO ]  Loading database
+2019-10-31 15:42:10,420 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-10-31 15:42:10,581 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-10-31 15:42:10,581 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-10-31 15:42:10,582 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-10-31 15:42:10,582 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-10-31 15:42:10,583 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-10-31 15:42:10,584 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-10-31 15:42:10,584 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-10-31 15:42:10,584 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 15:42:10,596 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:27:21,146 [MainThread  ] [INFO ]  DHM server starting
+2019-10-31 17:27:21,146 [MainThread  ] [INFO ]  Loading database
+2019-10-31 17:27:21,148 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-10-31 17:27:21,312 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-10-31 17:27:21,313 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-10-31 17:27:21,314 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-10-31 17:27:21,315 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-10-31 17:27:21,315 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-10-31 17:27:21,316 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-10-31 17:27:21,316 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-10-31 17:27:21,317 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:27:21,330 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:28:21,375 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:28:21,381 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:29:21,408 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:29:21,426 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:30:21,472 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:30:21,491 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:31:21,548 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:31:21,569 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:32:21,630 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:32:21,650 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-10-31 17:33:21,710 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-10-31 17:33:21,718 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:37:08,255 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:37:08,255 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:37:08,256 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:37:08,436 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:37:08,436 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:37:08,438 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:37:08,438 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:37:08,439 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:37:08,439 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:37:08,439 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:37:08,440 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:37:08,452 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:41:20,990 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:41:20,990 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:41:20,991 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:41:21,138 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:41:21,138 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:41:21,140 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:41:21,140 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:41:21,141 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:41:21,141 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:41:21,142 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:41:21,142 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:41:21,152 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:41:48,458 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:41:48,458 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:41:48,459 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:41:48,599 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:41:48,599 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:41:48,601 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:41:48,601 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:41:48,602 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:41:48,602 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:41:48,602 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:41:48,603 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:41:48,607 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:41:48,612 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:46:35,993 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:46:35,993 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:46:35,994 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:46:36,186 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:46:36,186 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:46:36,188 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:46:36,188 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:46:36,189 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:46:36,189 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:46:36,190 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:46:36,190 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:46:36,194 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:46:36,204 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:46:46,695 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 14:46:46,939 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:46:46,939 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:46:46,940 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:46:47,103 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:46:47,103 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:46:47,105 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:46:47,105 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:46:47,106 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:46:47,106 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:46:47,107 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:46:47,107 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:46:47,112 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:46:47,116 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:47:02,479 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:47:02,479 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:47:02,480 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:47:02,655 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:47:02,655 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:47:02,657 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:47:02,657 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:47:02,658 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:47:02,658 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:47:02,659 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:47:02,659 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:47:02,663 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:47:02,669 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:48:02,707 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:48:02,727 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:48:48,663 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 14:48:48,917 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:48:48,918 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:48:48,919 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:48:49,086 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:48:49,086 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:48:49,087 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:48:49,088 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:48:49,089 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:48:49,089 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:48:49,090 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:48:49,090 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:48:49,095 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:48:49,100 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:49:37,094 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 14:49:37,359 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:49:37,359 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:49:37,360 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:49:37,548 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:49:37,548 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:49:37,550 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:49:37,550 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:49:37,551 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:49:37,552 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:49:37,552 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:49:37,553 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:49:37,557 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:49:37,562 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 14:49:55,058 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 14:49:55,308 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 14:49:55,308 [MainThread  ] [INFO ]  Loading database
+2019-11-04 14:49:55,309 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 14:49:55,478 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 14:49:55,478 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 14:49:55,480 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 14:49:55,481 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 14:49:55,481 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 14:49:55,482 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 14:49:55,482 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 14:49:55,483 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 14:49:55,488 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 14:49:55,492 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:05:16,377 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:05:16,377 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:05:16,378 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:05:16,517 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:05:16,518 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:05:16,519 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:05:16,519 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:05:16,520 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:05:16,520 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:05:16,521 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:05:16,521 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:05:16,525 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:05:16,530 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:14:09,381 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:14:09,382 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:14:09,383 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:14:09,573 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:14:09,573 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:14:09,575 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:14:09,575 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:14:09,576 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:14:09,576 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:14:09,577 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:14:09,577 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:14:09,581 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:14:09,590 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:24:14,380 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:24:14,380 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:24:14,381 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:24:14,522 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:24:14,523 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:24:14,524 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:24:14,524 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:24:14,525 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:24:14,525 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:24:14,526 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:24:14,526 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:24:14,530 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:24:19,467 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:24:19,467 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:24:19,468 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:24:19,611 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:24:19,611 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:24:19,613 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:24:19,613 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:24:19,614 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:24:19,614 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:24:19,614 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:24:19,615 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:24:19,619 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:24:19,624 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:24:47,800 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:24:47,801 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:24:47,802 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:24:47,946 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:24:47,946 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:24:47,947 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:24:47,947 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:24:47,948 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:24:47,949 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:24:47,949 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:24:47,950 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:24:47,954 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:24:47,959 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:25:15,529 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:25:15,529 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:25:15,530 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:25:15,672 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:25:15,672 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:25:15,673 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:25:15,674 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:25:15,674 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:25:15,675 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:25:15,675 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:25:15,676 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:25:15,680 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:25:15,686 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:27:15,601 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:27:15,601 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:27:15,603 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:27:15,799 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:27:15,799 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:27:15,801 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:27:15,801 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:27:15,802 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:27:15,803 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:27:15,803 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:27:15,804 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:27:15,810 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:27:15,818 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:28:53,290 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:28:53,290 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:28:53,291 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:28:53,431 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:28:53,432 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:28:53,433 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:28:53,433 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:28:53,434 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:28:53,435 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:28:53,435 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:28:53,435 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:28:53,439 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:28:53,445 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:33:54,439 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:33:54,770 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:33:54,770 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:33:54,772 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:33:55,008 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:33:55,008 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:33:55,010 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:33:55,010 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:33:55,011 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:33:55,012 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:33:55,013 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:33:55,013 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:33:55,020 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:33:55,024 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:34:08,021 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:34:08,312 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:34:08,312 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:34:08,313 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:34:08,531 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:34:08,531 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:34:08,533 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:34:08,533 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:34:08,535 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:34:08,535 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:34:08,536 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:34:08,536 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:34:08,546 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:34:08,549 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:34:29,547 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:34:29,803 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:34:29,803 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:34:29,804 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:34:30,064 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:34:30,064 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:34:30,066 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:34:30,066 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:34:30,068 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:34:30,068 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:34:30,069 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:34:30,069 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:34:30,073 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:34:30,080 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:34:35,574 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:34:35,837 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:34:35,837 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:34:35,838 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:34:36,021 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:34:36,022 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:34:36,023 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:34:36,023 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:34:36,024 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:34:36,025 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:34:36,025 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:34:36,025 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:34:36,030 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:34:36,035 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:35:07,029 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:35:07,309 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:35:07,309 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:35:07,310 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:35:07,518 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:35:07,518 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:35:07,521 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:35:07,521 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:35:07,522 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:35:07,523 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:35:07,523 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:35:07,524 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:35:07,528 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:35:07,533 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:36:02,528 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:36:02,806 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:36:02,806 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:36:02,807 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:36:03,008 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:36:03,008 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:36:03,010 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:36:03,010 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:36:03,012 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:36:03,012 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:36:03,013 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:36:03,013 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:36:03,016 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:36:03,023 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:36:11,018 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:36:11,293 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:36:11,294 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:36:11,295 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:36:11,476 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:36:11,476 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:36:11,478 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:36:11,478 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:36:11,479 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:36:11,479 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:36:11,479 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:36:11,480 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:36:11,484 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:36:11,490 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:36:11,490 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:36:33,984 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:36:34,269 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:36:34,269 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:36:34,270 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:36:34,455 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:36:34,455 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:36:34,457 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:36:34,457 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:36:34,458 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:36:34,458 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:36:34,459 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:36:34,459 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:36:34,463 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:36:34,468 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:36:34,469 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:41:43,030 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:41:43,030 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:41:43,031 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:41:43,188 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:41:43,188 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:41:43,189 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:41:43,189 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:41:43,190 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:41:43,190 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:41:43,191 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:41:43,191 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:41:43,195 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:41:43,201 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:41:43,201 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:08,260 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:58:08,260 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:58:08,261 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:58:08,419 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:58:08,419 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:58:08,420 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:58:08,420 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:58:08,421 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:58:08,422 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:58:08,422 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:58:08,422 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:58:08,426 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:58:08,432 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:58:08,432 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:08,562 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:08,562 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:08,569 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:20,427 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 15:58:20,640 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:58:20,640 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:58:20,641 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:58:20,796 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:58:20,797 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:58:20,798 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:58:20,798 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:58:20,799 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:58:20,800 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:58:20,800 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:58:20,800 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:58:20,804 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:58:20,808 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:58:20,808 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:20,997 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:20,997 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:21,004 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:32,932 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:58:32,933 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:58:32,934 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:58:33,082 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:58:33,082 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:58:33,083 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:58:33,084 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:58:33,084 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:58:33,085 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:58:33,085 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:58:33,086 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:58:33,089 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:58:33,095 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:58:33,096 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:42,138 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 15:58:42,138 [MainThread  ] [INFO ]  Loading database
+2019-11-04 15:58:42,139 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 15:58:42,295 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 15:58:42,296 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 15:58:42,297 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 15:58:42,297 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 15:58:42,298 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 15:58:42,298 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 15:58:42,299 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 15:58:42,299 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 15:58:42,303 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 15:58:42,308 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 15:58:42,309 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:42,421 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:42,421 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 15:58:42,428 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:21:37,172 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 17:21:37,172 [MainThread  ] [INFO ]  Loading database
+2019-11-04 17:21:37,173 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 17:21:37,348 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 17:21:37,348 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 17:21:37,349 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 17:21:37,350 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 17:21:37,350 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 17:21:37,351 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 17:21:37,351 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 17:21:37,351 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 17:21:37,356 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 17:21:37,363 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 17:21:37,363 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:21:37,531 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:21:37,531 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:21:37,538 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:40,451 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 17:24:40,451 [MainThread  ] [INFO ]  Loading database
+2019-11-04 17:24:40,452 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 17:24:40,614 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 17:24:40,614 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 17:24:40,616 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 17:24:40,616 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 17:24:40,617 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 17:24:40,617 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 17:24:40,618 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 17:24:40,618 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 17:24:40,622 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 17:24:40,626 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 17:24:40,627 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:40,767 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:40,768 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:40,776 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:58,624 [MainThread  ] [INFO ]  DHM_server.py modified; restarting server
+2019-11-04 17:24:58,870 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 17:24:58,870 [MainThread  ] [INFO ]  Loading database
+2019-11-04 17:24:58,871 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 17:24:59,033 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 17:24:59,033 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 17:24:59,035 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 17:24:59,036 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 17:24:59,037 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 17:24:59,038 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 17:24:59,038 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 17:24:59,038 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 17:24:59,044 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 17:24:59,048 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 17:24:59,048 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:59,147 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:59,148 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:24:59,154 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:25:19,043 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 17:25:19,043 [MainThread  ] [INFO ]  Loading database
+2019-11-04 17:25:19,044 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 17:25:19,208 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 17:25:19,208 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 17:25:19,210 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 17:25:19,210 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 17:25:19,211 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 17:25:19,211 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 17:25:19,212 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 17:25:19,212 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 17:25:19,216 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 17:25:19,222 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 17:25:19,222 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:25:19,403 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:25:19,403 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:25:19,410 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:55:23,803 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 17:55:23,803 [MainThread  ] [INFO ]  Loading database
+2019-11-04 17:55:23,804 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 17:55:23,973 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 17:55:23,974 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 17:55:23,975 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 17:55:23,975 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 17:55:23,976 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 17:55:23,976 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 17:55:23,977 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 17:55:23,977 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 17:55:23,981 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 17:55:23,987 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 17:55:23,988 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:55:24,128 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:55:24,128 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 17:55:24,135 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 19:35:49,181 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 19:35:49,182 [MainThread  ] [INFO ]  Loading database
+2019-11-04 19:35:49,183 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 19:35:49,328 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 19:35:49,328 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 19:35:49,330 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 19:35:49,330 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 19:35:49,331 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 19:35:49,331 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 19:35:49,332 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 19:35:49,332 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 19:35:49,336 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 19:35:49,342 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 19:35:49,342 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 19:35:49,489 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 19:35:49,489 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 19:35:49,494 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:14,231 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 20:28:14,231 [MainThread  ] [INFO ]  Loading database
+2019-11-04 20:28:14,232 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 20:28:14,378 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 20:28:14,378 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 20:28:14,380 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 20:28:14,380 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 20:28:14,381 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 20:28:14,381 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 20:28:14,381 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 20:28:14,382 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 20:28:14,385 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 20:28:14,391 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 20:28:14,391 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:14,531 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:14,532 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:14,538 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:41,693 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 20:28:41,693 [MainThread  ] [INFO ]  Loading database
+2019-11-04 20:28:41,694 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 20:28:41,852 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 20:28:41,852 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 20:28:41,854 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 20:28:41,854 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 20:28:41,855 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 20:28:41,855 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 20:28:41,855 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 20:28:41,856 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 20:28:41,860 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 20:28:41,865 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 20:28:41,865 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:42,002 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:42,002 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 20:28:42,009 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 21:01:17,440 [MainThread  ] [INFO ]  DHM server starting
+2019-11-04 21:01:17,440 [MainThread  ] [INFO ]  Loading database
+2019-11-04 21:01:17,442 [MainThread  ] [INFO ]  Fetching hashed password from database
+2019-11-04 21:01:17,653 [MainThread  ] [INFO ]  Correct bootstrap password
+2019-11-04 21:01:17,653 [MainThread  ] [INFO ]  Public key loaded successfully
+2019-11-04 21:01:17,655 [MainThread  ] [INFO ]  Private key loaded successfully
+2019-11-04 21:01:17,655 [MainThread  ] [INFO ]  Server ID : d46f1dec96fb35c8407dc401109249c8
+2019-11-04 21:01:17,657 [MainThread  ] [INFO ]  Successfully loaded DHs info from local database
+2019-11-04 21:01:17,658 [MainThread  ] [INFO ]  Successfully loaded GWs info from local database
+2019-11-04 21:01:17,658 [MainThread  ] [INFO ]  Starting session with GW A3C server: c81306517f41a51b92445538e3406296
+2019-11-04 21:01:17,659 [Thread-1    ] [INFO ]  Fetching ticket from A3C GW with uuid c81306517f41a51b92445538e3406296
+2019-11-04 21:01:17,665 [MainThread  ] [INFO ]  Starting web server
+2019-11-04 21:01:17,671 [Thread-1    ] [INFO ]  Successfully fetched ticket from c81306517f41a51b92445538e3406296
+2019-11-04 21:01:17,672 [Thread-2    ] [INFO ]  Starting DHM <-> GW session. GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 21:01:17,818 [Thread-2    ] [INFO ]  Successfully established session with GW UUID: 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 21:01:17,819 [Thread-2    ] [INFO ]  Fetching DHs data to configure target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
+2019-11-04 21:01:17,822 [Thread-2    ] [INFO ]  Sending configuration tickets to target GW UUID 50433dbaa1de8cf4c381302970dd7f7f
