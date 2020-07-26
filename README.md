@@ -24,13 +24,13 @@ This repository contains all the code developed to achieve an operational archit
 
 # Workflow
 
-## Network bootstrap
+## Network bootstrap and configuration
 
 <p align="center">
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/workflow_bootstrap.png" width=600px>
 </p>
 
-## Authentication 
+## Client-DD session setup 
 
 <p align="center">
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/workflow_auth.png" width=600px>
