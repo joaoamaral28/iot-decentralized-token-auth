@@ -1,7 +1,7 @@
 # iot-decentralized-token-auth
 Solution attempt for securing IoT realm applications. Developed as the practical stage of my masters degree.
 
-# Description
+# Project description
 
 Assuring security and privacy is one of the key issues affecting the Internet of Things (IoT), mostly due to its distributed nature. Therefore, for the IoT to thrive, this problem needs to be tackled and solved. This solution describes a security-oriented architecture for managing IoT deployments. Our main goal was to deal with a fine-grained control in the access to IoT data and devices, to prevent devices from being manipulated by attackers and to avoid information leaking from IoT devices to unauthorized recipients. 
 
