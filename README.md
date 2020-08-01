@@ -1,5 +1,5 @@
 # iot-decentralized-token-auth
-Solution attempt for securing IoT realm applications. Developed as the practical stage of my masters degree.
+Solution attempt for securing IoT realm applications. Developed as the practical stage of my masters degree thesis.
 
 # Project description
 
@@ -51,6 +51,11 @@ Note that this solution was only considered for Local Area Network scenarios. Op
 </p>
 -->
 
+The ticket fetching protocol is a fast, two message protocol which allows
+an entity, known here as the ticket owner (O), to obtain a ticket to be used in order to access
+another entity, considered the ticket target (T). This ticket is issued by the A3C server of its
+corresponding target entity.
+
 | Entity | Operation |
 | :---:  |     :---      |
 | O | Generate a random R<sub>1</sub>|
@@ -59,15 +64,39 @@ Note that this solution was only considered for Local Area Network scenarios. Op
 | O &larr; A3C | { R<sub>2</sub> } K<sup>+</sup><sub>O</sub>, T<sub>A3C</sub> [ O &rarr; T, K ], K<sup>+</sup><sub>A3C</sub> |
 | O | Recovers R<sub>2</sub> with K<sup>-</sup><sub>O</sub> <br> Computes K = R<sub>1</sub> ⊕ R<sub>2</sub>  |
 
+### Ticket structure
+
+Each ticket used in the architecture possesses the same three parted structure: a secret or
+private part, a public part and a signature part.
+
+The secret part contains a confidential master key used for the establishment of secure
+sessions with regards to data encryption and integrity. When the issued ticket is received and
+validated by its target entity, the session key will then be used for securing such session until
+it expires. The ticket private part is always encrypted with the public key of the ticket target
+(K<sup>+</sup><sub>target</sub>).
+
+The public part contains all the data in the communications procedures involving the
+ticket that do not require any sort of confidentiality. This usually includes the ticket target
+identifier (ID), a pseudonym of the ticket owner, the ticket expiration date and the set of
+rights the ticket owner has over the target.
+
+The signature part contains the signature of the ticket and is performed by the entity
+issuing it over the other two parts, secret and private. The signature is computed with the
+private key of the ticket issuer (K<sup>-</sup><sub>issuer</sub>).
+
 
 ## Session setup protocol 
 <!---
-
 <p align="center">
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/protocol_session_setup.png" width=400px>
 </p>
-
 -->
+
+The session creation protocol, is a three-way handshake which, similarly to
+the ticket fetching protocol, uses a ticket and two random values, R<sub>1</sub> and R<sub>2</sub>, in order to
+create a derived session key, K'
+, obtained from the original master session key K, present
+inside the ticket secret part, already owned by the session requester.
 
 | Entity | Operation |
 | :---:  |     :---      |
@@ -77,4 +106,3 @@ Note that this solution was only considered for Local Area Network scenarios. Op
 | I &larr; T | R<sub>2</sub>, { R<sub>1</sub> } <sub>K'</sub> |
 | I| Computes K<sup>'</sup>|
 | I &rarr; T | { R<sub>2</sub> } <sub>K'</sub>  |
-  
