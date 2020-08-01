@@ -11,6 +11,8 @@ The authentication in the entire system uses asymmetric cryptography and pre-dis
 
 This repository contains all the code developed to achieve an operational architecture that explores this state-of-the-art security solution.
 
+## References
+
 * The scholar paper specifying the architecture and protocols is available at: https://www.researchgate.net/publication/336689945_Security-Oriented_Architecture_for_Managing_IoT_Deployments
 
 * The master thesis document is publicly available in the University of Aveiro RIA platform. Link: http://hdl.handle.net/10773/28620
@@ -23,8 +25,26 @@ The architecture of the system and its underlying communications can be abstract
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/architecture.png" width=500px>
 </p>
 
+The main objective of the architecture is to allow a clear separation of the entities providing the services from those which authorize its access. This way, the architecture is composed by the following entities:
+* IoT devices
+* Device Hosts (DHs)
+* Device drivers (DDs)
+* IoT Gateways
+* AAA Controllers (A3C)
+* Device Host Manager (DHM)
+* Client 
+
+For a better understanding of these entities and their role in the network please refer to the [references section](#references).
+
+## Practical prototype
+
 In the practical implementation the GW entity was deployed in a RaspberryPi 3 and the DH entity deployed in a 32 bit microcontroller. 
-The GW <-> DH communication was performed via Bluetooth Low Energy (BLE). All the remaining communication is done via IP.
+
+The GW &harr; DH communication is performed via Bluetooth Low Energy (BLE) and its underlying data is serialized and deserealized using 
+[Portocol Buffers](https://developers.google.com/protocol-buffers),
+following the structural 
+[ble_message.proto](https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/src/DH/main/protobuf/ble_message.proto) file
+. All the remaining communication is done in the IP network through standard HTTP.
 
 Note that this solution was only considered for Local Area Network scenarios. Optimally, some of the architectural entities would be deployed outside the LAN or even hosted in cloud based services, however, although reasonable, this was not considered for the scope of the project. 
 
