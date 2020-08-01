@@ -45,13 +45,36 @@ Note that this solution was only considered for Local Area Network scenarios. Op
 # Protocols
 
 ## Ticket fetching protocol
-
+<!---
 <p align="center">
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/protocol_ticket_fetch.png" width=400px>
 </p>
+-->
+
+| Entity | Operation |
+| :---:  |     :---      |
+| O | Generate a random R<sub>1</sub>|
+| O &rarr; A3C | K<sup>+</sup><sub>O</sub>, UUID<sub>T</sub>, { R<sub>1</sub> } <sub>K<sup>+</sup><sub>A3C</sub> </sub>
+| A3C| Checks if UUID<sub>O</sub> can access UUID<sub>T</sub> <br> Recover R<sub>1</sub> with K<sup>-</sup><sub>A3C</sub> <br> Generate random R<sub>2</sub> <br> Computes K = R<sub>1</sub> ⊕ R<sub>2</sub> <br> Generate T<sub>A3C</sub> [ O &rarr; T, K ] with K<sup>+</sup><sub>T</sub> |
+| O &larr; A3C | { R<sub>2</sub> } K<sup>+</sup><sub>O</sub>, T<sub>A3C</sub> [ O &rarr; T, K ], K<sup>+</sup><sub>A3C</sub> |
+| O | Recovers R<sub>2</sub> with K<sup>-</sup><sub>O</sub> <br> Computes K = R<sub>1</sub> ⊕ R<sub>2</sub>  |
+
 
 ## Session setup protocol 
+<!---
 
 <p align="center">
 <img src="https://github.com/joaoamaral28/iot-decentralized-token-auth/blob/master/figs/protocol_session_setup.png" width=400px>
 </p>
+
+-->
+
+| Entity | Operation |
+| :---:  |     :---      |
+| I | Generates a random R<sub>1</sub> | 
+| I &rarr; T | T<sub>A3C</sub> [ I &rarr; T, K ], K<sup>+</sup><sub>A3C</sub>, R<sub>1</sub> |
+| T | Check if K<sup>+</sup><sub>A3C</sub> matches its UUID<sub>A3C</sub> <br> Validates ticket signature with K<sup>+</sup><sub>A3C</sub> <br> Recovers K from the ticket secret part with K<sup>-</sup><sub>T</sub> <br> Generate random R<sub>2</sub> <br> Computes K<sup>'</sup> = digest(K, R<sub>1</sub>, R<sub>2</sub> ) |
+| I &larr; T | R<sub>2</sub>, { R<sub>1</sub> } <sub>K'</sub> |
+| I| Computes K<sup>'</sup>|
+| I &rarr; T | { R<sub>2</sub> } <sub>K'</sub>  |
+  
